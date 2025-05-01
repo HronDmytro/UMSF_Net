@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\umsf\\UMSF_Net\\HW-02\\HW-02\\HW-02.csproj": {}
+    "D:\\Projects\\C#\\HW-03\\HW-03\\HW-03.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\umsf\\UMSF_Net\\HW-02\\HW-02\\HW-02.csproj": {
+    "D:\\Projects\\C#\\HW-03\\HW-03\\HW-03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\umsf\\UMSF_Net\\HW-02\\HW-02\\HW-02.csproj",
-        "projectName": "HW-02",
-        "projectPath": "D:\\Projects\\umsf\\UMSF_Net\\HW-02\\HW-02\\HW-02.csproj",
+        "projectUniqueName": "D:\\Projects\\C#\\HW-03\\HW-03\\HW-03.csproj",
+        "projectName": "HW-03",
+        "projectPath": "D:\\Projects\\C#\\HW-03\\HW-03\\HW-03.csproj",
         "packagesPath": "C:\\Users\\unvmj\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\umsf\\UMSF_Net\\HW-02\\HW-02\\obj\\",
+        "outputPath": "D:\\Projects\\C#\\HW-03\\HW-03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
