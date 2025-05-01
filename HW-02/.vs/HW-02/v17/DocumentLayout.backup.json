@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\HW-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E42FD4A-1CED-4B4F-ADB9-47769DC87B74}|HW-02\\HW-02.csproj|d:\\projects\\c#\\hw-02\\hw-02\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E42FD4A-1CED-4B4F-ADB9-47769DC87B74}|HW-02\\HW-02.csproj|solutionrelative:hw-02\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E42FD4A-1CED-4B4F-ADB9-47769DC87B74}|HW-02\\HW-02.csproj|d:\\projects\\c#\\hw-02\\hw-02\\accountmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E42FD4A-1CED-4B4F-ADB9-47769DC87B74}|HW-02\\HW-02.csproj|solutionrelative:hw-02\\accountmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E42FD4A-1CED-4B4F-ADB9-47769DC87B74}|HW-02\\HW-02.csproj|d:\\projects\\c#\\hw-02\\hw-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E42FD4A-1CED-4B4F-ADB9-47769DC87B74}|HW-02\\HW-02.csproj|solutionrelative:hw-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountMonitor.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-02\\HW-02\\AccountMonitor.cs",
+              "RelativeDocumentMoniker": "HW-02\\AccountMonitor.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-02\\HW-02\\AccountMonitor.cs",
+              "RelativeToolTip": "HW-02\\AccountMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:09:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-02\\HW-02\\BankAccount.cs",
+              "RelativeDocumentMoniker": "HW-02\\BankAccount.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-02\\HW-02\\BankAccount.cs",
+              "RelativeToolTip": "HW-02\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:08:56.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-02\\HW-02\\Program.cs",
+              "RelativeDocumentMoniker": "HW-02\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-02\\HW-02\\Program.cs",
+              "RelativeToolTip": "HW-02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:08:31.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

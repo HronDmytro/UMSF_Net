@@ -1,0 +1,14 @@
+D:\Projects\C#\HW-02\HW-02\bin\Debug\net8.0\HW-02.exe
+D:\Projects\C#\HW-02\HW-02\bin\Debug\net8.0\HW-02.deps.json
+D:\Projects\C#\HW-02\HW-02\bin\Debug\net8.0\HW-02.runtimeconfig.json
+D:\Projects\C#\HW-02\HW-02\bin\Debug\net8.0\HW-02.dll
+D:\Projects\C#\HW-02\HW-02\bin\Debug\net8.0\HW-02.pdb
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\HW-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\HW-02.AssemblyInfoInputs.cache
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\HW-02.AssemblyInfo.cs
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\HW-02.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\HW-02.dll
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\refint\HW-02.dll
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\HW-02.pdb
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\HW-02.genruntimeconfig.cache
+D:\Projects\C#\HW-02\HW-02\obj\Debug\net8.0\ref\HW-02.dll
