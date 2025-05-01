@@ -21,7 +21,7 @@ namespace BankEventDemo
             // Тестові операції
             account.Deposit(1000);     // Новий баланс: 1000,00 грн
             account.Withdraw(250);     // Новий баланс: 750,00 грн
-            account.Withdraw(1000);    // Недостатньо коштів
+            account.Withdraw(600);     // Новий баланс: 150,00 грн
         }
     }
 }
