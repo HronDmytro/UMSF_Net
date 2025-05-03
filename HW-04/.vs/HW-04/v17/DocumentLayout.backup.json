@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\HW-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\devicemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\devicemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\html.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\html.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\sqlquerybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\sqlquerybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|d:\\projects\\c#\\hw-04\\hw-04\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F76567-FEEE-4B23-97CB-9AB8DF11564F}|HW-04\\HW-04.csproj|solutionrelative:hw-04\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceManagement.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\DeviceManagement.cs",
+              "RelativeDocumentMoniker": "HW-04\\DeviceManagement.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\DeviceManagement.cs",
+              "RelativeToolTip": "HW-04\\DeviceManagement.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:12:02.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Html.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\Html.cs",
+              "RelativeDocumentMoniker": "HW-04\\Html.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\Html.cs",
+              "RelativeToolTip": "HW-04\\Html.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:10:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlQueryBuilder.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\SqlQueryBuilder.cs",
+              "RelativeDocumentMoniker": "HW-04\\SqlQueryBuilder.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\SqlQueryBuilder.cs",
+              "RelativeToolTip": "HW-04\\SqlQueryBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:08:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterBuilder.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\CharacterBuilder.cs",
+              "RelativeDocumentMoniker": "HW-04\\CharacterBuilder.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\CharacterBuilder.cs",
+              "RelativeToolTip": "HW-04\\CharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:08:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\Character.cs",
+              "RelativeDocumentMoniker": "HW-04\\Character.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\Character.cs",
+              "RelativeToolTip": "HW-04\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:08:16.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\Settings.cs",
+              "RelativeDocumentMoniker": "HW-04\\Settings.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\Settings.cs",
+              "RelativeToolTip": "HW-04\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:07:55.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\Logger.cs",
+              "RelativeDocumentMoniker": "HW-04\\Logger.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\Logger.cs",
+              "RelativeToolTip": "HW-04\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:07:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\HW-04\\HW-04\\Program.cs",
+              "RelativeDocumentMoniker": "HW-04\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\HW-04\\HW-04\\Program.cs",
+              "RelativeToolTip": "HW-04\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:07:17.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
