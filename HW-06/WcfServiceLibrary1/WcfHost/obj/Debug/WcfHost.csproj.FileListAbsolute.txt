@@ -1,0 +1,11 @@
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\bin\Debug\WcfHost.exe.config
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\bin\Debug\WcfHost.exe
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\bin\Debug\WcfHost.pdb
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\bin\Debug\WcfServiceLibrary1.dll
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\obj\Debug\WcfHost.csproj.AssemblyReference.cache
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\obj\Debug\WcfHost.csproj.Up2Date
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\obj\Debug\WcfHost.exe
+D:\Projects\C#\WcfServiceLibrary1\WcfHost\obj\Debug\WcfHost.pdb

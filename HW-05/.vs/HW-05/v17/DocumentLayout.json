@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\C#\\HW-05\\",
+  "WorkspaceRootPath": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\database\\create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\database\\create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\database\\create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\c#\\hw-05\\hw-05\\database\\create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|d:\\projects\\umsf\\umsf_net\\hw-05\\hw-05\\database\\create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{22ACEEB5-C4DE-4E36-BAD0-87C3655BF0E2}|HW-05\\HW-05.csproj|solutionrelative:hw-05\\database\\create_db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "create_db.sql ",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-05\\HW-05\\Database\\create_db.sql",
+              "DocumentMoniker": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Database\\create_db.sql",
               "RelativeDocumentMoniker": "HW-05\\Database\\create_db.sql",
-              "ToolTip": "D:\\Projects\\C#\\HW-05\\HW-05\\Database\\create_db.sql",
+              "ToolTip": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Database\\create_db.sql",
               "RelativeToolTip": "HW-05\\Database\\create_db.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-05-03T21:23:37.16Z",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-05\\HW-05\\Order.cs",
+              "DocumentMoniker": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Order.cs",
               "RelativeDocumentMoniker": "HW-05\\Order.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-05\\HW-05\\Order.cs",
+              "ToolTip": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Order.cs",
               "RelativeToolTip": "HW-05\\Order.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAADwvyoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Contact.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-05\\HW-05\\Contact.cs",
+              "DocumentMoniker": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Contact.cs",
               "RelativeDocumentMoniker": "HW-05\\Contact.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-05\\HW-05\\Contact.cs",
+              "ToolTip": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Contact.cs",
               "RelativeToolTip": "HW-05\\Contact.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA7wBAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-05\\HW-05\\TaskItem.cs",
+              "DocumentMoniker": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\TaskItem.cs",
               "RelativeDocumentMoniker": "HW-05\\TaskItem.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-05\\HW-05\\TaskItem.cs",
+              "ToolTip": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\TaskItem.cs",
               "RelativeToolTip": "HW-05\\TaskItem.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-05\\HW-05\\Product.cs",
+              "DocumentMoniker": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Product.cs",
               "RelativeDocumentMoniker": "HW-05\\Product.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-05\\HW-05\\Product.cs",
+              "ToolTip": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Product.cs",
               "RelativeToolTip": "HW-05\\Product.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA7wBAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-05\\HW-05\\User.cs",
+              "DocumentMoniker": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\User.cs",
               "RelativeDocumentMoniker": "HW-05\\User.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-05\\HW-05\\User.cs",
+              "ToolTip": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\User.cs",
               "RelativeToolTip": "HW-05\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-05\\HW-05\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Program.cs",
               "RelativeDocumentMoniker": "HW-05\\Program.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-05\\HW-05\\Program.cs",
+              "ToolTip": "D:\\Projects\\umsf\\UMSF_Net\\HW-05\\HW-05\\Program.cs",
               "RelativeToolTip": "HW-05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
